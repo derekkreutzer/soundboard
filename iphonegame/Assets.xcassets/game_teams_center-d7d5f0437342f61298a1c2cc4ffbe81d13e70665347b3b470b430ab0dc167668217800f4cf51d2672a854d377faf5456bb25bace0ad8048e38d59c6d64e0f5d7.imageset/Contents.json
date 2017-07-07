@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "game_teams_center-d7d5f0437342f61298a1c2cc4ffbe81d13e70665347b3b470b430ab0dc167668217800f4cf51d2672a854d377faf5456bb25bace0ad8048e38d59c6d64e0f5d7.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
